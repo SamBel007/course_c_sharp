@@ -10,3 +10,11 @@ if (a > b)
     Console.WriteLine(a);
 else
     Console.WriteLine(b);
+
+  Console.Write("min=");  
+
+  
+if (a < b)
+    Console.WriteLine(a);
+else
+    Console.WriteLine(b);
